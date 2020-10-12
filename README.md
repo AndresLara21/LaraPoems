@@ -2,9 +2,11 @@
 
 ![](giammarco-boscaro-zeH-ljawHtg-unsplash.jpg)
 
-This website is where I'll share my love of poetry, rhetoric, novels, films, and all other forms of writing for your enjoyment. Here you'll find reviews on texts, some lessons on writing, and of course my own pieces of writing to entertain you as well as for you to review yourself.
+Salve (Hello)!, this site is where I'll share my love of poetry, rhetoric, novels, films, and all other forms of writing for your enjoyment. Here you'll find reviews on texts, some lessons on writing, and of course my own pieces of writing to entertain you as well as for you to review yourself.
 
 Make sure to follow me on [instagram](https://www.instagram.com/larapoems/)!
+
+
 
 ### Biography
 Here's a little about me
