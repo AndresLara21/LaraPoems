@@ -1,4 +1,4 @@
-## Welcome to my Poetry page!
+## Welcome to my page!
 
 ![](giammarco-boscaro-zeH-ljawHtg-unsplash.jpg)
 
