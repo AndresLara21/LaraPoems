@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## Welcome to my Poetry page!
 
-You can use the [editor on GitHub](https://github.com/AndresLara21/LaraCatholic/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+![](giammarco-boscaro-zeH-ljawHtg-unsplash.jpg)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This website is where I'll share my love of poetry, rhetoric, novels, films, and all other forms of writing for your enjoyment. Here you'll find reviews on texts, some lessons on writing, and of course my own pieces of writing to entertain you as well as for you to review yourself.
 
-### Markdown
+Make sure to follow me on [instagram](https://www.instagram.com/larapoems/)!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Biography
+Here's a little about me
 
-```markdown
-Syntax highlighted code block
+![](aaron-burden-y02jEX_B0O0-unsplash.jpg)
 
-# Header 1
-## Header 2
-### Header 3
+My name is Andres and writing is the way I experience life the best. Whether it be through books, music, films, 
+short stories, or even verbal texts, writing opens up entirely new perspectives on the world.
 
-- Bulleted
-- List
+Some of my favorite genres include horror/thrillers, science fiction, adventure and comedy. A few of my favorite
+authors include Edgar Allan Poe, H.P. Lovecraft, Charles Bukowski, Stanley Kubrick, and Marcus Aurelius.
 
-1. Numbered
-2. List
+I hope to show you more of my love of poetry as well as learn new things along the way.
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AndresLara21/LaraCatholic/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
